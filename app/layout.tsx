@@ -37,10 +37,10 @@ export const metadata: Metadata = {
     siteName: "CARSENSE",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
+        url: "https://plus.unsplash.com/premium_photo-1661439920547-65d827d1dbf5?w=1200&q=80",
         width: 1200,
         height: 630,
-        alt: "CARSENSE – Nettoyage automobile à domicile",
+        alt: "Technicien CARSENSE nettoyant une voiture avec un chiffon microfibre",
       },
     ],
     locale: "fr_FR",
