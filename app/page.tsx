@@ -7,7 +7,7 @@ const services = [
     icon: Key,
     title: "Coup de clés",
     description:
-      "Nettoyage intérieur et extérieur complet de votre véhicule réalisé directement à votre domicile.",
+      "Élimination des rayures de clés sur votre carrosserie grâce à une correction de peinture ciblée, pour retrouver un résultat impeccable.",
     price: "79,99 €",
     badge: "Le plus populaire",
   },
